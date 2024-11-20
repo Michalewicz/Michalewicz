@@ -1,10 +1,10 @@
 ## <div align="center">Olá! Eu sou Rafael Michalewicz Rodrigues!</div>
-<div align="center">Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec</div>
+<div align="center">Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</div>
 <hr>
 
 <div align="center">
   <a href="https:/beacons.ai/Michalewicz">
-  <img height="auto-height" src="https://github-readme-stats.vercel.app/api?username=Michalewicz&show_icons=true&theme=algolia&count_private=true"/><img height="auto-height" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michalewicz&layout=compact&theme=algolia"/>
+  <img height="auto-height" src="https://github-readme-stats.vercel.app/api?username=Michalewicz&show_icons=true&theme=algolia&count_private=true"/><img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michalewicz&layout=compact&theme=algolia"/>
 </div>
 
 ##
