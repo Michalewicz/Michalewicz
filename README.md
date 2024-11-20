@@ -1,5 +1,5 @@
 ## <div align="center">Olá! Eu sou Rafael Michalewicz Rodrigues!</div>
-<div align="center">Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</div>
+<div align="center">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</div>
 <hr>
 
 <div align="center">
