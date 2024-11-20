@@ -1,17 +1,15 @@
-## <div align="center">Olá! Eu sou Rafael Michalewicz Rodrigues!</div>
-<div align="center">
+## Olá! Eu sou Rafael Michalewicz Rodrigues!
 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec
-</div>
 <hr>
 
-<div align="center">
+<div align="left">
   <a href="https:/beacons.ai/Michalewicz">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Michalewicz&show_icons=true&theme=algolia&count_private=true"/><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michalewicz&layout=compact&theme=algolia"/>
 </div>
 
 ##
 
-<div align="center">
+<div align="left">
   <img  height="auto-height" width="auto-width" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img  height="auto-height" width="auto-width" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img  height="auto-height" width="auto-width" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
