@@ -4,9 +4,10 @@
 
 <div align="center">
   <a href="https:/beacons.ai/Michalewicz">
-  <img height="auto-height" width="auto-width" src="https://github-readme-stats.vercel.app/api?username=Michalewicz&show_icons=true&theme=algolia&count_private=true"/><img height="180px" width="auto-width" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michalewicz&layout=compact&theme=algolia"/>
+  <img height="250px" width="500px" src="https://github-readme-stats.vercel.app/api?username=Michalewicz&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="209px" width="507px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michalewicz&layout=compact&theme=algolia"/>
 </div>
-
+    
 ##
 
 <div align="center">
