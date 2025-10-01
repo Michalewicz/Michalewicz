@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Meu nome é Rafael Michalewicz Rodrigues, tenho 20 anos e atualmente moro no estado de São Paulo, tendo concluído o curso "Operador de Supoer Técnico em Tecnologia da Informação" pelo SENAI de Santos, onde desenvolvi mais a fundo o meu conhecimento em TI como um todo!<br>Atualmente estou matriculado na Fatec de Praia Grande, cursando Análise e Desenvolvimento de Sistemas ao qual estou aprofundando ainda mais o meu conhecimento no desenvolvimento de aplicações WEB e Desktop.
+Meu nome é Rafael Michalewicz Rodrigues, tenho 20 anos e atualmente moro no estado de São Paulo, tendo concluído o curso "Operador de Suporte Técnico em Tecnologia da Informação" pelo SENAI de Santos, onde desenvolvi mais a fundo o meu conhecimento em TI como um todo!<br>Atualmente estou matriculado na Fatec de Praia Grande, cursando Análise e Desenvolvimento de Sistemas ao qual estou aprofundando ainda mais o meu conhecimento no desenvolvimento de aplicações WEB e Desktop.
 
 <p align="left">
 
